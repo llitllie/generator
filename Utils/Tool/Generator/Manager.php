@@ -73,7 +73,7 @@ class Manager{
 		echo '	-f forece generate'.PHP_EOL;
 		echo '	-a generate async'.PHP_EOL;
 		echo '	-fn generate fuction'.PHP_EOL;
-		echo 'eg. gen.php -f -a \\\\KCloud\\\\KSongMatch\\\\Prize\\\\Service'.PHP_EOL;
+		echo 'eg. gen.php -f -a \\\\Cloud\\\\KSongMatch\\\\Prize\\\\Service'.PHP_EOL;
 		exit();
 	}
 	public static function useforce(){
